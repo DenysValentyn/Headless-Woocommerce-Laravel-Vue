@@ -162,3 +162,4 @@ All financial support that badaso gets will also shared to project above to supp
 ## License
 
 See the [LICENSE](./LICENSE) file for licensing information.
+# Headless-Woocommerce-Laravel-Vue
